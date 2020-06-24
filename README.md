@@ -3,13 +3,9 @@
 <a href='#video-name'><img src="images/en.jpg" alt="English" width="50" /></a>
 
 
-# Nome do Video
+# Git CLI
 
 ## Repositório
-
-### Branches
-* Master (contém o código do último vídeo)  - `pt-master` 
-* Vídeo 1 - ``
 
 ### Requisitos:
 * Terminal unix
@@ -62,13 +58,9 @@
 
 ---
 
-# Video Name
+# Git CLI
 
 ## Repository
-
-### Branches
-* Master (has the code from the last video)  - `en-master` 
-* Video 1 - ``
 
 ### Requirements:
 * Unix terminal
