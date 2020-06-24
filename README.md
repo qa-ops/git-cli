@@ -12,7 +12,8 @@
 * Vídeo 1 - ``
 
 ### Requisitos:
-*
+* Terminal unix
+* Git instalado
 
 
 ### Comandos Básicos do Git
@@ -51,6 +52,8 @@
 
 * `git log --grep='<descrição>'` - pesquisa commits pela descrição.
 
+* `git merge <branch>` - faz o merge da branch atual com a branch passada como parâmetro
+
 ## Vídeo
 
 * [Vídeo Completo]() 
@@ -68,7 +71,8 @@
 * Video 1 - ``
 
 ### Requirements:
-*
+* Unix terminal
+* Git installed
 
 ### Git Basic Commands
 
@@ -105,6 +109,8 @@
 * `git log` - show commit logs.
 
 * `git log --grep='<descrição>'` - search commit by description
+
+* `git merge <branch>` - do the merge of the current branch with the branch passed as parameter
 
 ## Video
 
