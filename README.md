@@ -1,9 +1,9 @@
 #### Selecione sua Língua | Select your Language
-<a href='#nome-do-video'><img src="images/pt-br.png" alt="Português" width="50" /></a>
-<a href='#video-name'><img src="images/en.jpg" alt="English" width="50" /></a>
+<a href='#cli-do-git'><img src="images/pt-br.png" alt="Português" width="50" /></a>
+<a href='#git-cli'><img src="images/en.jpg" alt="English" width="50" /></a>
 
 
-# Git CLI
+# CLI do Git
 
 ## Repositório
 
